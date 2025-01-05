@@ -4,7 +4,7 @@
    table of contents
 
 
-Template
+Deploying Omniverse in the Cloud
 ========
 
 .. toctree::
