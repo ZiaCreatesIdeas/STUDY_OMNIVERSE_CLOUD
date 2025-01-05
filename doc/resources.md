@@ -3,7 +3,7 @@
 (resources)=
 #### Example of a Header
 
-This is a list of helpful tutorials.
+This is a tutorial on how to deploy to the cloud.
 
 ##### Examples of Links
 
